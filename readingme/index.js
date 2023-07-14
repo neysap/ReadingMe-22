@@ -41,7 +41,7 @@ const questions = [
       'MIT',
       'Apache 2.0',
       'GNU GPLv3',
-      // Add more license choices as needed
+      
     ],
   },
   {
